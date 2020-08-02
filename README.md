@@ -1,3 +1,3 @@
 # pubs redirect
 
-Simply redirects pubs.jack.engineering to jack.engineering/#publications
+Redirects pubs.jack.engineering to jack.engineering/#publications
